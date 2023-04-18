@@ -6,4 +6,4 @@
 
 - Hi, i´m currently working at [ConoceLat](https://github.com/No-Country/c10-57-t-reactchallenge-mern)
 
-- 📫 How to reach me **doloresalemang@gmail.com**
+- Reach me at **doloresalemang@gmail.com**
