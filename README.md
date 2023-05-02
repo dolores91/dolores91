@@ -18,7 +18,7 @@
    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://developrogramming.com/wp-content/uploads/2021/11/1_J8sjpKQJswCKiPUYVefbgQ.jpeg" alt="junit" width="40" height="40"/>
+  <img src="https://img1.freepng.es/20180622/xzh/kisspng-junit-test-automation-software-testing-unit-testin-5b2d5e49b79219.8381283915296999137519.jpg" alt="junit" width="45" height="35"/>
   </a>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
