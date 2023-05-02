@@ -35,6 +35,6 @@
 
    
 
-- Hi, i´m currently working at [ConoceLat](https://github.com/No-Country/c10-57-t-reactchallenge-mern)
+- i´m currently working at [ConoceLat](https://github.com/No-Country/c10-57-t-reactchallenge-mern)
 
 - Reach me at **doloresalemang@gmail.com**
