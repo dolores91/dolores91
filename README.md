@@ -35,6 +35,9 @@
 
    
 
-- i´m currently working at [ConoceLat](https://github.com/No-Country/c10-57-t-reactchallenge-mern)
+  <h3> Last projects: </h3>
+- Tester at [CareerWatch](https://github.com/No-Country/S8-12-T-Java-React)
+- Pm and frontend developer at [ConoceLat](https://github.com/No-Country/c10-57-t-reactchallenge-mern)
+- Frontend developer at [DigitalBooking](https://github.com/dolores91/DigitalBooking) 
 
-- Reach me at **doloresalemang@gmail.com**
+  <h3> You can reach me at **doloresalemang@gmail.com** </h3>
