@@ -43,4 +43,4 @@
   
 - Frontend developer at [DigitalBooking](https://github.com/dolores91/DigitalBooking) 
 
-<h3> You can reach me at **doloresalemang@gmail.com** </h3>
+<h3> You can reach me at <b>doloresalemang@gmail.com<b> </h3>
