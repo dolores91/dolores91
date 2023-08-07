@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dolores</h1>
+<h1 align="center">Hey! Nice to see you.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
+Welcome! <br></br>
+I'm Dolores, developer from  Argentina, currently living in Italy.
+<br></br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -10,6 +13,7 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">  </a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  </a>
+   <img src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.1/1678968590213/Microsoft.VisualStudio.Services.Icons.Default" alt="NEXT JS" width="40" height="40"/> 
   
   
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> </a>
@@ -35,7 +39,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   
 
-   
 
   <h3> Last projects: </h3>
   
@@ -45,4 +48,16 @@
   
 - Frontend developer at [DigitalBooking](https://github.com/dolores91/DigitalBooking) 
 
-<h3> You can reach me at <b>doloresalemang@gmail.com<b> </h3>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolores91&layout=compact&langs_count=5&theme=midnight-purple" alt="dolores91" />
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=dolores91&show_icons=true&theme=midnight-purple" alt="dolores91" />
+</p>   
+
+
+<a href="https://www.linkedin.com/in/dolores-aleman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:doloresalemang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
+
