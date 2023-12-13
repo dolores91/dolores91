@@ -73,7 +73,7 @@ I'm Dolores, developer from  Argentina, currently living in Italy and working in
 
   <h3> Last projects: </h3>
 
-- Frontend developer at [GoldenTicket]([https://goldenticket.ar/](https://github.com/dolores91/DH_Final_Project_2_Frontend)
+- Frontend developer at [GoldenTicket](https://github.com/dolores91/DH_Final_Project_2_Frontend)
   
 - Tester at [CareerWatch](https://github.com/No-Country/S8-12-T-Java-React)
   
