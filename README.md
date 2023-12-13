@@ -1,7 +1,7 @@
 <h1 align="center">Hey! Nice to see you.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 Welcome! <br></br>
-I'm Dolores, developer from  Argentina, currently living in Italy.
+I'm Dolores, developer from  Argentina, currently living in Italy and working in OMNYS Information Technology.
 <br></br>
 
 <h3 align="left">Languages and Tools:</h3>
